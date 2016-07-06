@@ -1,0 +1,45 @@
+{
+  "class":{
+    "name":"Modeling Uncertainty in Information Systems",
+    "code":"CS236",
+    "start":"2016-06-20",
+    "weeks": [
+    {
+      "number":1,
+      "topic":"Elementary Math"
+    },
+    {
+      "number":2,
+      "topic":"Probability theory, random variables, expectation"
+    },
+    {
+      "number":3,
+      "topic":"Probability theory, random variables, expectation"
+    },
+    {
+      "number":4,
+      "topic":"Probability theory, random variables, expectation"
+    },
+    {
+      "number":5,
+      "topic":"Stochastic processes"
+    },
+    {
+      "number":6,
+      "topic":"Stochastic processes"
+    },
+    {
+      "number":7,
+      "topic":"Queuing theory and other applications"
+    },
+    {
+      "number":8,
+      "topic":"Queuing theory and other applications"
+    },
+    {
+      "number":9,
+      "topic":"Queuing theory and other applications"
+    }
+    ]
+  }
+}
